@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+  esp.cpp
+C:\Users\james\OneDrive\Desktop\New folder (2)\TuTNoGuiButBoxESP\FirstInternalHack\esp.cpp(50,58): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  Generating Code...
+  FirstInternalHack.vcxproj -> C:\Users\james\OneDrive\Desktop\New folder (2)\TuTNoGuiButBoxESP\Debug\FirstInternalHack.dll
